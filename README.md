@@ -43,7 +43,7 @@ A desktop-based banking application developed using **Java Swing, MySQL, and JDB
                 │
                 ▼
 ┌───────────────────────────────┐
-│       ⚙️ JAVA APPLICATION      │
+│      ⚙️ JAVA APPLICATION      │
 │ Authentication • Validation   │
 │ Transactions • Balance Logic  │
 └───────────────┬───────────────┘
@@ -60,9 +60,11 @@ A desktop-based banking application developed using **Java Swing, MySQL, and JDB
 │ Customer • Login • Accounts   │
 │        • Transactions         │
 └───────────────────────────────┘
+```
+
 ## 🗄️ Database
 
-The project uses MySQL with the following main tables:
+The project uses **MySQL** with the following main tables:
 
 ```text
 signup
